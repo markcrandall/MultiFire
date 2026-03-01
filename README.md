@@ -1,13 +1,13 @@
 # MultiFire
 
-A multiplication tower-defense game built as a single HTML file. Solve math problems to fire weapons at alien invaders before they reach your tower.
+A multiplication tower-defense game built as a single HTML file. Solve math problems to fire weapons at space alien invaders before they reach your tower.
 
 ## How to Play
 
 - Answer multiplication questions by clicking one of four choices
-- Correct answers fire a projectile at the nearest alien
-- Wrong answers let all aliens advance closer to your tower
-- If an alien reaches the tower, game over
+- Correct answers fire a projectile at the nearest space alien
+- Wrong answers let all space aliens advance closer to your tower
+- If a space alien reaches the tower, game over
 
 ## Weapon Tiers
 
